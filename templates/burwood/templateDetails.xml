@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>Burnwood</name>
+	<version>1.0</version>
+	<creationDate>5/24/2016</creationDate>
+	<author>nurdymuny</author>
+	<authorEmail>brian@nurdymuny.com</authorEmail>
+	<copyright>Copyright Burwood &copy; 2016. All rights reserved.</copyright>
+	<description>BURWOOD_XML_DESCRIPTION</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>menu</position>
+      	<position>top_menu</position>
+		<position>logo</position>
+      	<position>footer1</position>
+      	<position>footer2</position>
+      	<position>footer3</position>
+      	<position>footer4</position>
+      	<position>footer5</position>
+	</positions>
+</extension>
